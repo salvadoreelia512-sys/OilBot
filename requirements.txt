@@ -1,0 +1,7 @@
+numpy>=1.26
+scipy>=1.11
+pandas>=2.0
+arch>=6.2
+yfinance>=0.2.40
+requests>=2.31
+pytest>=7.4
